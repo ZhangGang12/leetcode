@@ -6,4 +6,5 @@
 由于昨天字节二面的时候，面试官出了一道链表题，虽然思路我和他讲了，也得到了认可，但是最后还是没有敲出来，对于链表的细节掌握的还是不够多，决定最近把leetcode的一些链表题整理一下，熟悉处理链表的细节。 
 2020_07_25  
 今天下午进行了PAT乙级考试，让我感到意外的是，居然很顺利的全A了，最后结果应该是100分吧，感到很开心。最让我开心的是乙级的真题我只刷了23道题目就熟悉了整个题目大概的模式，花了大概五个半天吧，没错是从上周一20号开始的，根据我的分析，我目前有两个方面的原因造成这个：1、之前刷的题目比较多。2、对于上文说的`回想`式学习方式，有了很好的实践和验证。能够实实在在的感受到自己的成长，真是非常棒的感觉呀！
-![image](https://github.com/ZhangGang12/leetcode/blob/master/tmp/image/pat1.bmp)
+![image](https://github.com/ZhangGang12/leetcode/blob/master/tmp/image/pat1.bmp)  
+![image](https://github.com/ZhangGang12/leetcode/blob/master/tmp/image/pat.bmp)  
